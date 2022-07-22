@@ -13,5 +13,6 @@ public class BasicSwitchBreaks {
             case 20:
                 System.out.println("twenty");
         }
+
     }
 }
